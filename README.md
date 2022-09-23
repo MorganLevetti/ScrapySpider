@@ -1,6 +1,9 @@
-Python Scrapy Project
 
-> python 3.10.6
+# Python Scrapy Project
+> python 3.10.6 :+1:
+> Scrapy 2.6.2
 
 
-![This is an image](https://en.wikipedia.org/wiki/File:Michael_J._Fox_as_Marty_McFly_in_Back_to_the_Future,_1985.jpg)
+```Start the spider 'crawl' and export to csv file
+scrapy crawl crawl -o imdb_boat.csv      
+```
